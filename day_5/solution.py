@@ -1,3 +1,5 @@
+from typing import List
+
 class Solution:
     def mostWordsFound(self, sentences: List[str]) -> int:
         no_of_blanks = []
